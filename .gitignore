@@ -2,3 +2,6 @@
 
 # default environment folder: env
 env
+
+*.pyc
+*.sqlite3
